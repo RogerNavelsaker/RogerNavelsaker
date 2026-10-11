@@ -1,0 +1,1 @@
+{"type":"convention","classification":"tactical","recorded_at":"2026-10-11T06:19:08.074Z","evidence":{"commit":"a9be122809884765f26e8812b7ae1d69df0c32dd"},"content":"Repository scan found 4 quality issues: 1) inconsistent trigger ID naming, 2) hardcoded API key, 3) empty seed data files, 4) docs drift in mulch README","id":"mx-1cd8a2"}
